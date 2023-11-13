@@ -73,5 +73,3 @@ const ListTodos = () => {
     </Fragment>
   );
 };
-
-export default ListTodos;

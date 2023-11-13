@@ -91,5 +91,3 @@ const EditTodo = ({ todo }) => {
     </Fragment>
   );
 };
-
-export default EditTodo;
